@@ -103,8 +103,9 @@ if __name__ == "__main__":
                     S, sr=4_000, hop_length=128, y_axis="linear",
                     x_axis="time", ax=ax)
                 ax.set(title=ttl)
+            plt.tight_layout()
             fig.colorbar(img, ax=axs, format="%+2.f dB")
             plt.suptitle(tag.upper())
-            plt.tight_layout()
+
     if args.plots:
         plt.show()
