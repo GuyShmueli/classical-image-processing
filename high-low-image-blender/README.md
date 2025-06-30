@@ -22,7 +22,6 @@ python blend.py \
 ---
 ## 2  Demo
 ### Input: Low-Resolution Lake
-![Example: lake_low_res](inputs_demos/lake_low_res.jpg)
-![Example: lake_high_res](inputs_demos/lake_high_res.png)
-### Output: Refined Lake
-![Example: lake_blended](outputs_demos/lake_blended.jpg)
+<img src="inputs_demos/lake_low_res.jpg" style="width:60%;">
+<img src="inputs_demos/lake_high_res.png" style="width:60%;">
+<img src="outputs_demos/lake_blended.jpg" style="width:60%;">
