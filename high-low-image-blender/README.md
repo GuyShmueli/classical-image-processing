@@ -25,4 +25,4 @@ python blend.py \
 ![Example: lake_low_res](inputs_demos/lake_low_res.jpg)
 ![Example: lake_high_res](inputs_demos/lake_high_res.png)
 ### Output: Refined Lake
-![Example: lake_high_res](output_demos/lake_blended.jpg)
+![Example: lake_blended](outputs_demos/lake_blended.jpg)
